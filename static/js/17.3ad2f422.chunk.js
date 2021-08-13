@@ -1,0 +1,2 @@
+(this["webpackJsonpamplify-s3-demo"]=this["webpackJsonpamplify-s3-demo"]||[]).push([[17],{166:function(t,e,n){"use strict";n.r(e),n.d(e,"amplify_auth_container",(function(){return o}));var i=n(7),o=function(){function t(t){Object(i.k)(this,t)}return t.prototype.render=function(){return Object(i.i)(i.b,null,Object(i.i)("form",{autoComplete:"on",hidden:!0},Object(i.i)("input",{name:"username"}),Object(i.i)("input",{name:"password",type:"password"}),Object(i.i)("input",{type:"submit"})),Object(i.i)("slot",null))},t}()}}]);
+//# sourceMappingURL=17.3ad2f422.chunk.js.map
